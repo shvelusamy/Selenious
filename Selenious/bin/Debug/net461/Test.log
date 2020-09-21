@@ -1,0 +1,63 @@
+2020-09-19 23:46:44.9729|Info|Selenious.Core.BaseConfiguration.get_GetBaseUrl|Base URL is: https://www.saucedemo.com
+2020-09-19 23:46:46.0420|Info|Selenious.Utils.Logger.TestLogger.Info|*************************************************************************************
+2020-09-19 23:46:46.0420|Info|Selenious.Utils.Logger.TestLogger.Info|START: TestE2E starts at 19/9/2020 11:46:46 pm.
+2020-09-19 23:46:49.6950|Info|Selenious.Core.BaseConfiguration.get_GetBaseUrl|Base URL is: https://www.saucedemo.com
+2020-09-19 23:47:01.3396|Info|Selenious.Core.DriverConfigurations.DriverContext.SaveScreenshot|File path is :D:\Shanky\Tech\Workspace\Selenious\Selenious\bin\Debug\net461\Results\TestE2E_2020_09_19_23_47_01_229_browser.png
+2020-09-19 23:47:01.3396|Info|Selenious.Core.DriverConfigurations.DriverContext.SaveScreenshot|Folder name is :D:\Shanky\Tech\Workspace\Selenious\Selenious\bin\Debug\net461\Results
+2020-09-19 23:47:03.5307|Error|Selenious.Core.DriverConfigurations.DriverContext.SaveScreenshot|Test failed: screenshot saved to D:\Shanky\Tech\Workspace\Selenious\Selenious\bin\Debug\net461\Results\TestE2E_2020_09_19_23_47_01_229_browser.png.
+2020-09-19 23:47:03.5367|Info|Selenious.Utils.Logger.TestLogger.Info|END: TestE2E ends at 19/9/2020 11:47:03 pm after 17 sec.
+2020-09-19 23:47:03.5367|Info|Selenious.Utils.Logger.TestLogger.Info|*************************************************************************************
+2020-09-19 23:48:36.4510|Info|Selenious.Core.BaseConfiguration.get_GetBaseUrl|Base URL is: https://www.saucedemo.com
+2020-09-19 23:48:37.1005|Info|Selenious.Utils.Logger.TestLogger.Info|*************************************************************************************
+2020-09-19 23:48:37.1005|Info|Selenious.Utils.Logger.TestLogger.Info|START: TestE2E starts at 19/9/2020 11:48:37 pm.
+2020-09-19 23:48:40.5687|Info|Selenious.Core.BaseConfiguration.get_GetBaseUrl|Base URL is: https://www.saucedemo.com
+2020-09-19 23:48:43.8947|Info|Selenious.Utils.Logger.TestLogger.Info|END: TestE2E ends at 19/9/2020 11:48:43 pm after 7 sec.
+2020-09-19 23:48:43.8957|Info|Selenious.Utils.Logger.TestLogger.Info|*************************************************************************************
+2020-09-19 23:48:59.7088|Info|Selenious.Core.BaseConfiguration.get_GetBaseUrl|Base URL is: https://www.saucedemo.com
+2020-09-19 23:49:00.2432|Info|Selenious.Utils.Logger.TestLogger.Info|*************************************************************************************
+2020-09-19 23:49:00.2432|Info|Selenious.Utils.Logger.TestLogger.Info|START: TestE2E starts at 19/9/2020 11:49:00 pm.
+2020-09-19 23:49:03.8447|Info|Selenious.Core.BaseConfiguration.get_GetBaseUrl|Base URL is: https://www.saucedemo.com
+2020-09-19 23:49:05.8068|Info|Selenious.Utils.Logger.TestLogger.Info|END: TestE2E ends at 19/9/2020 11:49:05 pm after 6 sec.
+2020-09-19 23:49:05.8068|Info|Selenious.Utils.Logger.TestLogger.Info|*************************************************************************************
+2020-09-20 08:16:32.7022|Info|Selenious.Core.BaseConfiguration.get_GetBaseUrl|Base URL is: https://www.saucedemo.com
+2020-09-20 08:16:33.7220|Info|Selenious.Utils.Logger.TestLogger.Info|*************************************************************************************
+2020-09-20 08:16:33.7250|Info|Selenious.Utils.Logger.TestLogger.Info|START: TestE2E starts at 20/9/2020 8:16:33 am.
+2020-09-20 08:16:37.0096|Info|Selenious.Core.BaseConfiguration.get_GetBaseUrl|Base URL is: https://www.saucedemo.com
+2020-09-20 08:16:41.4533|Info|Selenious.Utils.Logger.TestLogger.Info|END: TestE2E ends at 20/9/2020 8:16:41 am after 8 sec.
+2020-09-20 08:16:41.4533|Info|Selenious.Utils.Logger.TestLogger.Info|*************************************************************************************
+2020-09-20 08:18:48.4157|Info|Selenious.Core.BaseConfiguration.get_GetBaseUrl|Base URL is: https://www.saucedemo.com
+2020-09-20 08:18:49.2859|Info|Selenious.Utils.Logger.TestLogger.Info|*************************************************************************************
+2020-09-20 08:18:49.2906|Info|Selenious.Utils.Logger.TestLogger.Info|START: TestE2E starts at 20/9/2020 8:18:49 am.
+2020-09-20 08:18:51.6898|Info|Selenious.Core.BaseConfiguration.get_GetBaseUrl|Base URL is: https://www.saucedemo.com
+2020-09-20 08:18:52.7299|Info|Selenious.Core.DriverConfigurations.DriverContext.SaveScreenshot|File path is :D:\Shanky\Tech\Workspace\Selenious\Selenious\bin\Debug\net461\Results\TestE2E_2020_09_20_08_18_52_679_browser.png
+2020-09-20 08:18:52.7299|Info|Selenious.Core.DriverConfigurations.DriverContext.SaveScreenshot|Folder name is :D:\Shanky\Tech\Workspace\Selenious\Selenious\bin\Debug\net461\Results
+2020-09-20 08:18:54.8652|Error|Selenious.Core.DriverConfigurations.DriverContext.SaveScreenshot|Test failed: screenshot saved to D:\Shanky\Tech\Workspace\Selenious\Selenious\bin\Debug\net461\Results\TestE2E_2020_09_20_08_18_52_679_browser.png.
+2020-09-20 08:18:54.8652|Info|Selenious.Utils.Logger.TestLogger.Info|END: TestE2E ends at 20/9/2020 8:18:54 am after 6 sec.
+2020-09-20 08:18:54.8652|Info|Selenious.Utils.Logger.TestLogger.Info|*************************************************************************************
+2020-09-20 08:20:16.1459|Info|Selenious.Core.BaseConfiguration.get_GetBaseUrl|Base URL is: https://www.saucedemo.com
+2020-09-20 08:20:16.4552|Info|Selenious.Utils.Logger.TestLogger.Info|*************************************************************************************
+2020-09-20 08:20:16.4552|Info|Selenious.Utils.Logger.TestLogger.Info|START: TestE2E starts at 20/9/2020 8:20:16 am.
+2020-09-20 08:20:19.0016|Info|Selenious.Core.BaseConfiguration.get_GetBaseUrl|Base URL is: https://www.saucedemo.com
+2020-09-20 08:20:32.3412|Info|Selenious.Core.DriverConfigurations.DriverContext.SaveScreenshot|File path is :D:\Shanky\Tech\Workspace\Selenious\Selenious\bin\Debug\net461\Results\TestE2E_2020_09_20_08_20_32_258_browser.png
+2020-09-20 08:20:32.3412|Info|Selenious.Core.DriverConfigurations.DriverContext.SaveScreenshot|Folder name is :D:\Shanky\Tech\Workspace\Selenious\Selenious\bin\Debug\net461\Results
+2020-09-20 08:20:34.5430|Error|Selenious.Core.DriverConfigurations.DriverContext.SaveScreenshot|Test failed: screenshot saved to D:\Shanky\Tech\Workspace\Selenious\Selenious\bin\Debug\net461\Results\TestE2E_2020_09_20_08_20_32_258_browser.png.
+2020-09-20 08:20:34.5430|Info|Selenious.Utils.Logger.TestLogger.Info|END: TestE2E ends at 20/9/2020 8:20:34 am after 18 sec.
+2020-09-20 08:20:34.5520|Info|Selenious.Utils.Logger.TestLogger.Info|*************************************************************************************
+2020-09-20 08:21:04.4681|Info|Selenious.Core.BaseConfiguration.get_GetBaseUrl|Base URL is: https://www.saucedemo.com
+2020-09-20 08:21:05.0824|Info|Selenious.Utils.Logger.TestLogger.Info|*************************************************************************************
+2020-09-20 08:21:05.0854|Info|Selenious.Utils.Logger.TestLogger.Info|START: TestE2E starts at 20/9/2020 8:21:05 am.
+2020-09-20 08:21:07.9691|Info|Selenious.Core.BaseConfiguration.get_GetBaseUrl|Base URL is: https://www.saucedemo.com
+2020-09-20 08:21:10.1362|Info|Selenious.Utils.Logger.TestLogger.Info|END: TestE2E ends at 20/9/2020 8:21:10 am after 5 sec.
+2020-09-20 08:21:10.1362|Info|Selenious.Utils.Logger.TestLogger.Info|*************************************************************************************
+2020-09-20 08:24:09.3369|Info|Selenious.Core.BaseConfiguration.get_GetBaseUrl|Base URL is: https://www.saucedemo.com
+2020-09-20 08:24:09.7088|Info|Selenious.Utils.Logger.TestLogger.Info|*************************************************************************************
+2020-09-20 08:24:09.7088|Info|Selenious.Utils.Logger.TestLogger.Info|START: TestSwagLabsE2E starts at 20/9/2020 8:24:09 am.
+2020-09-20 08:24:12.4551|Info|Selenious.Core.BaseConfiguration.get_GetBaseUrl|Base URL is: https://www.saucedemo.com
+2020-09-20 08:24:15.6091|Info|Selenious.Utils.Logger.TestLogger.Info|END: TestSwagLabsE2E ends at 20/9/2020 8:24:15 am after 6 sec.
+2020-09-20 08:24:15.6091|Info|Selenious.Utils.Logger.TestLogger.Info|*************************************************************************************
+2020-09-21 07:57:04.0619|Info|Selenious.Core.BaseConfiguration.get_GetBaseUrl|Base URL is: https://www.saucedemo.com
+2020-09-21 07:57:05.0255|Info|Selenious.Utils.Logger.TestLogger.Info|*************************************************************************************
+2020-09-21 07:57:05.0255|Info|Selenious.Utils.Logger.TestLogger.Info|START: TestSwagLabsE2E starts at 21/9/2020 7:57:05 am.
+2020-09-21 07:57:07.4308|Info|Selenious.Core.BaseConfiguration.get_GetBaseUrl|Base URL is: https://www.saucedemo.com
+2020-09-21 07:57:13.0246|Info|Selenious.Utils.Logger.TestLogger.Info|END: TestSwagLabsE2E ends at 21/9/2020 7:57:13 am after 8 sec.
+2020-09-21 07:57:13.0246|Info|Selenious.Utils.Logger.TestLogger.Info|*************************************************************************************
