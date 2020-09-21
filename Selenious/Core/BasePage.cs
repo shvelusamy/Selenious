@@ -3,7 +3,7 @@ namespace Selenious.Core
     using System;
     using OpenQA.Selenium;
     using Selenious.Core.DriverConfigurations;
-    using Selenious.Project.TestData;
+    using Selenious.ExampleProject.TestData;
 
     public partial class BasePage
     {
